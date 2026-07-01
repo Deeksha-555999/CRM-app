@@ -14,6 +14,106 @@
             "date": 1782796862448,
             "name": "logs\\error-2026-06-30.log",
             "hash": "3dee258685babbd0cf2d8a1f7207767f5682f9f9aaa7a108b7a375883c3caa8c"
+        },
+        {
+            "date": 1782886098037,
+            "name": "logs\\error-2026-07-01.log",
+            "hash": "4c3299911a3498c181a4a0b149221f0dc823c57a95e8dcf296f54b67064058f3"
+        },
+        {
+            "date": 1782889335418,
+            "name": "logs\\error-2026-07-01.log.1",
+            "hash": "a67c351ff245fd2e7f31dd5d2dbaf8658111d606629839c4a5a032f243b94ec1"
+        },
+        {
+            "date": 1782889449016,
+            "name": "logs\\error-2026-07-01.log.2",
+            "hash": "7d019120dbf50f467ffa6dd3a06e4ed1cbe0a2470f6aa66751d4f4952e53b15a"
+        },
+        {
+            "date": 1782889563924,
+            "name": "logs\\error-2026-07-01.log.3",
+            "hash": "7294c50ce395c4a99e713678561609538d369f5b6d92794d560f5a6c15a16330"
+        },
+        {
+            "date": 1782889671887,
+            "name": "logs\\error-2026-07-01.log.4",
+            "hash": "27183fb74ccd39aa37b33e19b3c4680225ea5462b1cbbea941d8ac0a22412287"
+        },
+        {
+            "date": 1782889773903,
+            "name": "logs\\error-2026-07-01.log.5",
+            "hash": "2f7d80dce01c2308ee5af9219598fd4c78d9e09b28394f9b83a38106ecdb9198"
+        },
+        {
+            "date": 1782889875870,
+            "name": "logs\\error-2026-07-01.log.6",
+            "hash": "69dade473c4994c59038d319a9ab8fc6aa85759eaa92bf974e831b991176a098"
+        },
+        {
+            "date": 1782889988150,
+            "name": "logs\\error-2026-07-01.log.7",
+            "hash": "0002164377e607727c40ec53c2f09ff28d09191d539de364b4fd07cf433067b6"
+        },
+        {
+            "date": 1782890101962,
+            "name": "logs\\error-2026-07-01.log.8",
+            "hash": "e107ca74c3c51984b41011be7a5b2da5e8017dc3d75a9644b67266de4f69e154"
+        },
+        {
+            "date": 1782890219488,
+            "name": "logs\\error-2026-07-01.log.9",
+            "hash": "59c5b26201d3316bf8a009682562c2d05c4d396e074cc99e2e6861687f1ef536"
+        },
+        {
+            "date": 1782890338711,
+            "name": "logs\\error-2026-07-01.log.10",
+            "hash": "7b8f8c019355bf4d8d25d66a280e73efb50c93187d4a5490aeaff3542e4f49c0"
+        },
+        {
+            "date": 1782890442106,
+            "name": "logs\\error-2026-07-01.log.11",
+            "hash": "004c225f18899aae44cb31e9e6d5d6d4dce81f7bcf0e04409edd4f5b6446bba6"
+        },
+        {
+            "date": 1782890539412,
+            "name": "logs\\error-2026-07-01.log.12",
+            "hash": "0ebc9e73046771a15dad6156ae1754c2984669833ac045966d118db1c6b63fbd"
+        },
+        {
+            "date": 1782890645508,
+            "name": "logs\\error-2026-07-01.log.13",
+            "hash": "87c66cb697716f5a1cf3d504c3e8e11782d628c88f2cc8ad544d328e60b1b3f5"
+        },
+        {
+            "date": 1782890756370,
+            "name": "logs\\error-2026-07-01.log.14",
+            "hash": "0ea6f3838a1462343ff9d4d02bf954441c52f67c8aa9589fab93a503c5c1de9e"
+        },
+        {
+            "date": 1782890861227,
+            "name": "logs\\error-2026-07-01.log.15",
+            "hash": "79be5fa044f45f22c6040f27e6a7a4b868bad8fea1c5c7e8d0c4b10bf0c28cbd"
+        },
+        {
+            "date": 1782890971042,
+            "name": "logs\\error-2026-07-01.log.16",
+            "hash": "5b27b6434febcb51a1ca22518890c899c0f4a5ae3c1d7ad9f7dbfaa68abfa418"
+        },
+        {
+            "date": 1782891049221,
+            "name": "logs\\error-2026-07-01.log.17",
+            "hash": "740d680dcd132323e3fd8be98d9bd5f967b6451f3617ae2b4ebe1a2dba384c9e"
+        },
+        {
+            "date": 1782891086076,
+            "name": "logs\\error-2026-07-01.log.18",
+            "hash": "322b53a50583168a3c098d8e70a4bdb652067ce64b7a79613f98c8c8ec617ec9"
+        },
+        {
+            "date": 1782891182264,
+            "name": "logs\\error-2026-07-01.log.19",
+            "hash": "762434f5492959e40f08e596969cbc2c3b2e8b8c46d6adf8a4651876dc87d03a"
         }
     ],
     "hashType": "sha256"
